@@ -2018,7 +2018,7 @@ body {
 .cid-rEq0dE3fA5 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/art-1478831-1922-1920x1282.jpg");
 }
 .cid-rEq0dE3fA5 .title {
   margin-bottom: 2rem;
@@ -2041,6 +2041,35 @@ body {
 .cid-rEq0dE3fA5 .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-rEq0dE3fA5 H2 {
+  color: #ffffff;
+}
+.cid-rEq0dE3fA5 LABEL {
+  color: #ffffff;
+}
+.cid-rEqqOJ28EF {
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rEqqOJ28EF [class^="socicon-"]:before,
+.cid-rEqqOJ28EF [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-rEqqOJ28EF .btn-social {
+  border-color: #9200fd;
+}
+.cid-rEqqOJ28EF .btn-social:hover {
+  background: #9200fd;
+}
+.cid-rEqqOJ28EF .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-rEqqOJ28EF .btn {
+    font-size: 20px !important;
+  }
 }
 .cid-rEeLspXoDe {
   background: #ffffff;
